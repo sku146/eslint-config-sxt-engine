@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "redux-saga"
+  ],
+  "extends": [
+    "plugin:redux-saga/recommended"
+  ]
+}
