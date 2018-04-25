@@ -1,1 +1,1 @@
-module.exports = require('./eslint-config-jasmine.json');
+module.exports = require('./eslint-config-prettier.json');
