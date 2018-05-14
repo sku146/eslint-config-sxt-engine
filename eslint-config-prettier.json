@@ -2,6 +2,7 @@
   "extends":[
     "prettier",
     "prettier/react",
-    "prettier/standard"
+    "prettier/standard",
+    "plugin:prettier/recommended"
   ]
 }
