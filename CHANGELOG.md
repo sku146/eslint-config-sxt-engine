@@ -3,3 +3,9 @@
 ### Added Prettier Module
 - added Prettier for React
 - added Prettier for Standard
+
+## v1.0.3 (May 18, 2018)
+
+### Added Sonar and lodash smells Modules
+- added Sonar
+- added lodash smells

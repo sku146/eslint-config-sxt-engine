@@ -1,6 +1,7 @@
 {
   "plugins": [
-    "lodash"
+    "lodash",
+    "lodash-smells"
   ],
   "extends": [
     "plugin:lodash/recommended"

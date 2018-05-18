@@ -1,6 +1,7 @@
 {
   "plugins": [
-    "security"
+    "security",
+    "sonar"
   ],
   "extends": [
     "plugin:security/recommended"
