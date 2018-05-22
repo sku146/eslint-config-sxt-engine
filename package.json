@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sxt-engine",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Collection of ESLint rules, following our styleguide",
   "keywords": [
     "eslint",

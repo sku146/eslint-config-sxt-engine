@@ -2,3 +2,9 @@
 
 ### Added Prettier Plugin
 - added Prettier Eslint Plugin
+
+
+## v1.0.4 (May 22, 2018)
+
+### Fixed Sonar Eslint Plugin
+- fixed sonar eslint plugin issues
