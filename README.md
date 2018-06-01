@@ -15,6 +15,8 @@ $ npm install eslint-config-sxt-engine --save-dev
 
 Add `sxt-engine` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-config-` prefix:
 
+## For Nodejs
+
 ```json
 {
     "extends": [
@@ -23,7 +25,7 @@ Add `sxt-engine` to the plugins section of your `.eslintrc` configuration file. 
 }
 ```
 
-## For React
+## For Reactjs
 
 ```json
 {
@@ -70,6 +72,56 @@ Add `sxt-engine` to the plugins section of your `.eslintrc` configuration file. 
 {
     "extends": [
         "sxt-engine/webpack"
+    ]
+}
+```
+
+## For Flowjs 
+
+```json
+{
+    "extends": [
+        "sxt-engine/flow"
+    ]
+}
+```
+
+## For smells 
+
+```json
+{
+    "extends": [
+        "sxt-engine/smells"
+    ]
+}
+```
+
+## For Prettier 
+
+```json
+{
+    "extends": [
+        "sxt-engine/prettier"
+    ]
+}
+```
+
+## For ReduxSaga 
+
+```json
+{
+    "extends": [
+        "sxt-engine/reduxSaga"
+    ]
+}
+```
+
+## For Security 
+
+```json
+{
+    "extends": [
+        "sxt-engine/security"
     ]
 }
 ```
