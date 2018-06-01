@@ -9,3 +9,9 @@
 ### Added Sonar and lodash smells Modules
 - added Sonar
 - added lodash smells
+
+## v1.0.5 (June 01, 2018)
+
+### Added flowtype Modules
+- added flowtype module
+- updated redux-saga plugin version

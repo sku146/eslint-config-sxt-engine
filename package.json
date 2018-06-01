@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sxt-engine",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Collection of ESLint rules, following our styleguide",
   "keywords": [
     "eslint",
@@ -8,7 +8,8 @@
     "config",
     "accelerator",
     "javascript",
-    "styleguide"
+    "styleguide",
+    "sapient"
   ],
   "main": "index.js",
   "author": {
@@ -17,7 +18,8 @@
   },
   "license": "MIT",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "check": "npm-check -u"
   },
   "repository": {
     "type": "git",
@@ -35,6 +37,7 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-sonar": "0.0.6",
     "eslint-import-resolver-babel-module": "^4.0.0",
+    "eslint-plugin-flowtype": "^2.48.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jasmine": "^2.9.2",
     "eslint-plugin-jest": "^21.12.2",
@@ -44,7 +47,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-react": "^7.6.1",
-    "eslint-plugin-redux-saga": "^0.6.0",
+    "eslint-plugin-redux-saga": "^0.9.0",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-smells": "^1.0.1"
   },
