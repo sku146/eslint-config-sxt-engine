@@ -15,3 +15,8 @@
 ### Added flowtype Modules
 - added flowtype module
 - updated redux-saga plugin version
+
+## v1.0.6 (June 08, 2018)
+
+### Updated all Modules
+- updated all modules with latest version
