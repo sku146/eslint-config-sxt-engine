@@ -1,4 +1,4 @@
-# eslint-config-sxt-engine v1.0.8
+# eslint-config-sxt-engine v1.0.9
 Collection of ESLint rules to use for all the development environments (ex: nodejs, react, webpack, etc..,)
 
 ## Installation
