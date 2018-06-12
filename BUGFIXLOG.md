@@ -8,3 +8,8 @@
 
 ### Fixed Sonar Eslint Plugin
 - fixed sonar eslint plugin issues
+
+## v1.0.7 (June 12, 2018)
+
+### Fixed Babel Eslint Plugin Issues
+- downgraded the babel-eslint plugin to v8.2.1
