@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sxt-engine",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Collection of ESLint rules, following our styleguide",
   "keywords": [
     "eslint",
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/sku146/eslint-config-sxt-engine#readme",
   "dependencies": {
-    "babel-eslint": "^8.2.3",
+    "babel-eslint": "^8.2.1",
     "babel-plugin-module-resolver": "^3.1.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
