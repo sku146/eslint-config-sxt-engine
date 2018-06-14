@@ -23,3 +23,8 @@
 
 ### Fixed Babel Eslint Plugin Issues
 - downgraded the babel-eslint plugin to v8.1.0
+
+## v1.1.0 (June 14, 2018)
+
+### Fixed Babel Eslint Plugin Issues
+- downgraded the babel-eslint plugin to v8.0.1
